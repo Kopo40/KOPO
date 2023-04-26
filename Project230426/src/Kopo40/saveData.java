@@ -1,5 +1,5 @@
 package Kopo40;
-
+/*
 public class SData {
 	void saveData() {
 		orderList = new OrderListClass(ticketGrade,
@@ -7,3 +7,4 @@ public class SData {
 		data.add(orderList);
 	}
 }
+*/
