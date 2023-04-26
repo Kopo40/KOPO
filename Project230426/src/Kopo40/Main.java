@@ -1,5 +1,5 @@
 package Kopo40;
-
+// Main
 import java.util.Scanner;
 
 public class Main {
