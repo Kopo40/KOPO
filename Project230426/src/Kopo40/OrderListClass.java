@@ -1,5 +1,5 @@
 package Kopo40;
-
+// OrderList Class
 public class OrderListClass {
 	private int ticketGrade;
 	private int totalPrice;
